@@ -2,12 +2,12 @@ Harjoitus 3: HTML- ja CSS-perusteita jatkuu
 
 Tässä harjoituksessa opit
 
-CSS-syntaksin eli kielen määrittelyn
-Määrittelemään ulkoisen tyylitiedoston, joka on voimassa koko sivustoosi
-Perusmuotoilujen tekeminen tyylitiedoston avulla, kommentoinnin tyylitiedostoon
-Tyyliluokan ja tyylitunnisteen käytön
-Eri tapojen vaikutusalueet: Selaimen oletusmääritykset->Tyylitiedosto->dokumentin sisäiset <head>-osion määrittelyt ->html-elementtikohtaiset määrittelyt
-Validaattorin käytön
+- CSS-syntaksin eli kielen määrittelyn.
+- Määrittelemään ulkoisen tyylitiedoston, joka on voimassa koko sivustoosi.
+- Perusmuotoilujen tekeminen tyylitiedoston avulla, kommentoinnin tyylitiedostoon.
+- Tyyliluokan ja tyylitunnisteen käytön
+- Eri tapojen vaikutusalueet: Selaimen oletusmääritykset->Tyylitiedosto->dokumentin sisäiset <head>-osion määrittelyt ->html-elementtikohtaiset määrittelyt.
+- Validaattorin käytön.
 
 Alla muutamia vinkkejä, tee määritykset ensin <head>-osioon dokumentin sisälle:
 
